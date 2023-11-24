@@ -19,7 +19,6 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/masimkundi" target="blank"><img src="https://img.shields.io/twitter/follow/masimkundi?logo=twitter&style=for-the-badge" alt="masimkundi" /></a> </p>
 
 - 🔭 I’m currently working **as Software Engineer at 100DEVS**
 
@@ -32,13 +31,6 @@
 - 📫 How to reach me **muhammadasimkundi@gmail.com**
 
 - ⚡ Fun fact is that **"I am changing the world with 1one line of code."**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/masimkundi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masimkundi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-asim-kundi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-asim-kundi" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadasimkundi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadasimkundi" height="30" width="40" /></a>
-</p>
 
 
 <h1 align="center">Technologies</h1>
