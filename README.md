@@ -21,9 +21,11 @@
 
 <p align="left"> <a href="https://twitter.com/masimkundi" target="blank"><img src="https://img.shields.io/twitter/follow/masimkundi?logo=twitter&style=for-the-badge" alt="masimkundi" /></a> </p>
 
+- 🔭 I’m currently working **as Software Engineer at 100DEVS**
+
 - 🌱 I’m currently learning **Everything coming in front of me. yes, I am student of life.**
 
-- 👯 I’m looking to start work as software engineer **at international known Company.**
+- 👯 I’m looking to start work as software engineer **at FAANG.**
 
 - 📝 I regularly code [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
 
@@ -61,4 +63,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asim-kundi&" alt="muhammad-asim-kundi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asim-kundi&" alt="muhammad-asim-kundi" /></p>
