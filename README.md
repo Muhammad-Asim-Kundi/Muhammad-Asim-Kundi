@@ -20,15 +20,15 @@
 </p>
 
 
-- 🔭 I’m currently working **as Software Engineer at 100DEVS**
+- 🔭 Currently working **as Software Engineer at 100DEVS**
 
-- 🌱 I’m currently learning **Everything coming in front of me. yes, I am student of life.**
+- 🌱 Learning **Everything coming in front of me. yes, I am student of life.**
 
-- 👯 I’m looking to start work as software engineer **at FAANG.**
+- 👯 Eager to launch a dynamic software engineering career at a leading technology company, preferably within the **FAANG** group.
 
 - 📝 I regularly code [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
 
-- 📫 How to reach me **muhammadasimkundi@gmail.com**
+- 📫 Reach me through **muhammadasimkundi@gmail.com**
 
 - ⚡ Fun fact is that **"I am changing the world with 1one line of code."**
 
