@@ -22,7 +22,7 @@
 
 - 🔭 Currently working **as Software Engineer at 100DEVS**
 
-- 🌱 Learning **Everything coming in front of me. Yes, I am student of life.**
+- 🌱 Devoted to **acquiring knowledge from every encounter; I am a student of life.**
 
 - 👯 Eager to launch a dynamic software engineering career at a leading technology company, preferably within the **FAANG** group.
 
