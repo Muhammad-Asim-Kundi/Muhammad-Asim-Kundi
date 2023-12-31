@@ -24,7 +24,7 @@
 
 - 🌱 Devoted to **acquiring knowledge from every encounter; I am a student of life.**
 
-- 👯 Eager to launch a dynamic software engineering career at a leading technology company, preferably within the **FAANG** group.
+- 👯 "Keen to initiate a dynamic software engineering career at a prominent technology firm, ideally within the **FAANG** consortium."
 
 - 📝 I regularly code [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
 
