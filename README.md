@@ -28,7 +28,7 @@
 
 - 📝 I regularly code [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
 
-- 📫 Reach me through gmail:  **muhammadasimkundi@gmail.com**
+- 📫 Reach me through **muhammadasimkundi@gmail.com**
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
