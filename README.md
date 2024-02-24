@@ -32,8 +32,6 @@
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
-- ⚡ Fun fact: **Sometimes very Lazy.**
-
 
 <h1 align="center">Technologies</h1>
 
