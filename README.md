@@ -30,7 +30,7 @@
 
 - 📫 Reach me through **muhammadasimkundi@gmail.com** 
 
-- ⚡ Fun fact: **"I am changing the world with one line of code."** AND ITS MY HOBBY.
+- ⚡ Fun fact: **"I am changing the world with one line of code."**
 
 
 <h1 align="center">Technologies</h1>
