@@ -32,6 +32,7 @@
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
+---
 
 <h1 align="center">Technologies</h1>
 
@@ -53,7 +54,7 @@
 
 </p>
 
-
+---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asim-kundi&" alt="muhammad-asim-kundi" /></p>
 
