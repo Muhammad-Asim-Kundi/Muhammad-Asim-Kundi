@@ -32,8 +32,6 @@
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
-- ⚡ Fun fact: **"If, at first, you do not succeed, call it version 1.0."**
-
 ---
 
 <h1 align="center">Technologies</h1>
