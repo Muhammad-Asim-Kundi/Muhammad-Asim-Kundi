@@ -32,6 +32,7 @@
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
+- ⚡ Fun fact: **"Yeah! its fun"**
 ---
 
 <h1 align="center">Technologies</h1>
