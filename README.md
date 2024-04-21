@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
-- ⚡ Fun fact: **"Yeah! its fun"**
+- ⚡ Fun fact: **"Yeah! its definetly for fun"**
 ---
 
 <h1 align="center">Technologies</h1>
