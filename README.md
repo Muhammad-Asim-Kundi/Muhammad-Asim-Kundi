@@ -20,7 +20,7 @@
 </p>
 
 
-- 🔭 Currently working **as Software Engineer at 100DEVS**
+- 🔭 Currently working **as Software Engineer at 100DEVS.**
 
 - 🌱 Devoted to **acquiring knowledge from every encounter; I am a student of life.**
 
