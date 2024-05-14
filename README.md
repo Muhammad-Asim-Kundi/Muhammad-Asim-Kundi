@@ -1,5 +1,5 @@
 <img src="https://imagizer.imageshack.com/img922/60/RJkZaB.jpg" width="100%">
-<h3 align="center">A passionate MERN-Stack developer.</h3>
+<h3 align="center">A Passionate MERN-Stack Developer.</h3>
 
 <p align="center">
   <a href="#" target="_blank">
