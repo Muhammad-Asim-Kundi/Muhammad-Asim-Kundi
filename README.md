@@ -61,7 +61,7 @@
 ---
 
 
-<h1 align="center">Connect</h1>
+<h1 align="center">Connect:</h1>
 
 
 
