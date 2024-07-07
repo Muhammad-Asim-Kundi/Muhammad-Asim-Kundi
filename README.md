@@ -32,6 +32,8 @@
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
+- ⚡ Hobby: **"I love Book Reading."**
+
 ---
 
 <h1 align="center">Technologies</h1>
