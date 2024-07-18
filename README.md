@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
-- ⚡ Hobby: **"Loves Book Reading."**
+- ⚡ Hobby: **"Book Reading."**
 
 ---
 
